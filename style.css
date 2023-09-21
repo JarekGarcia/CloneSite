@@ -1,0 +1,56 @@
+header {
+    background-color: #4298fa;
+}
+
+
+.align-right-end {
+    margin-left: 25rem;
+}
+
+.padding-top {
+    padding-top: 3rem;
+    margin-left: 5rem;
+}
+
+.top-right-text {
+    margin: 3rem;
+}
+
+button {
+    margin-left: 3rem;
+}
+
+body {
+    background-color: white;
+}
+
+.blue-color {
+    background-color: #4298fa;
+}
+
+.phone {
+    max-width: 40rem;
+    max-height: 40rem;
+}
+
+.text-align-center {
+    text-align: center;
+    max-width: 30rem;
+    margin-left: 10rem;
+}
+
+.margin-left {
+    margin-left: 30rem;
+}
+
+.text-align-center2 {
+    text-align: center;
+}
+
+.bottom-play-vid {
+    max-height: 26rem;
+}
+
+.logos {
+    text-align: center;
+}
